@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/27 14:32:18.000.510,=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 08:24:44.597,=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 08:25:34.545,C:\Development\Test\FBANSimpleTest\Form.Main.pas=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 08:25:34.545,C:\Development\Test\FBANSimpleTest\Form.Main.fmx=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/08/25 08:25:41.906,C:\Development\Test\FBANSimpleTest\FBANSimpleTest.dproj=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/25 08:26:25.280,=C:\Development\Test\FBANSimpleTest\iOSapi.FacebookAdapter.pas</Transaction>
+    <Transaction>2021/08/25 08:26:25.312,=C:\Development\Test\FBANSimpleTest\Utils.Facebook.pas</Transaction>
+    <Transaction>2021/08/25 08:32:32.191,C:\Development\Test\FBANSimpleTest\Utils.Facebook.pas=</Transaction>
+    <Transaction>2021/08/25 08:32:35.838,C:\Development\Test\FBANSimpleTest\iOSapi.FacebookAdapter.pas=</Transaction>
+    <Transaction>2021/08/25 08:33:00.950,=C:\Development\Test\FBANSimpleTest\Libraries\iOSapi.FacebookAdapter.pas</Transaction>
+    <Transaction>2021/08/25 08:33:00.988,=C:\Development\Test\FBANSimpleTest\Libraries\Utils.Facebook.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacbookM1 iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008020-000005E23C30003A"/>
+	</ActiveMobileDevice>
+</BorlandProject>
